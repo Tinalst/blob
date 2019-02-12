@@ -1,8 +1,8 @@
 ## 2019学习清单
 ### Part 1animation ui 进阶
-- [ ] <<Css-in-depth>> 脑图整理
+- [ ] 《Css-in-depth》 脑图整理
 - [ ] css animarion 101
-- [ ] <<Css-secrets>>
+- [ ] 《Css-secrets》
 - [ ] Gasp
 - [ ] particle.js
 - [ ] Three.js __画线

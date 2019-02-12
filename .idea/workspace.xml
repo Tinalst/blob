@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae41635e-1096-430c-b3ab-9cfdf331cf84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the study plan of 2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/the study plan of 2019.md" afterDir="false" />
-    </list>
+    <list default="true" id="ae41635e-1096-430c-b3ab-9cfdf331cf84" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -36,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="114" />
+          <entry key="md" value="189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="109" />
+          <entry key="Markdown" value="184" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -53,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/the study plan of 2019.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="31">
-                <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              <first_editor relative-caret-position="248">
+                <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -81,8 +78,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="906" />
-    <option name="y" value="559" />
+    <option name="x" value="919" />
+    <option name="y" value="344" />
     <option name="width" value="1437" />
     <option name="height" value="877" />
   </component>
@@ -139,15 +136,15 @@
       <updated>1549950006621</updated>
       <workItem from="1549950007993" duration="352000" />
       <workItem from="1549950392578" duration="64000" />
-      <workItem from="1549950477264" duration="844000" />
+      <workItem from="1549950477264" duration="1240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1260000" />
+    <option name="totallyTimeSpent" value="1656000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="906" y="559" width="1437" height="877" extended-state="0" />
+    <frame x="919" y="344" width="1437" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.049435027" />
@@ -186,8 +183,8 @@
     <entry file="file://$PROJECT_DIR$/the study plan of 2019.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="31">
-            <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <first_editor relative-caret-position="248">
+            <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
